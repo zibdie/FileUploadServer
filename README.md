@@ -1,6 +1,6 @@
-# File Upload Server
+# File Transfer Server
 
-A simple Node.js server that allows users to upload files of any size. Files are stored in the `uploads` directory. You can run this locally by spinning up the the server and then using [ngrok](https://ngrok.com/) to get a public URL.
+A simple Node.js server that allows users to transfer files of any size. Files are stored in the `uploads` directory. You can run this locally by spinning up the the server and then using [ngrok](https://ngrok.com/) to get a public URL. **This is not a file hosting service, this is for transferring files from one PC to another when its difficult to use remote software**
 
 **Use Case:** If you need to transfer files from another PC you dont trust and do not want to login in from. Also, sometimes you may only get access to the server with the Virtualbox/Hyper-V window itself and cannot RDP.
 
